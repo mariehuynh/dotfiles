@@ -17,4 +17,19 @@ SA=$'\xe2\x9f\xbf'
 # Pencil going to the right
 PENCIL=$'\xE2\x9C\x8F'
 
-PROMPT_COMMAND='__git_ps1 "\W" "$LIGHTNING_BOLT "'
+# Bread
+BREAD=$'\xF0\x9F\x8D\x9E'
+
+# Hamster
+HAMSTER=$'\xF0\x9F\x90\xB9'
+
+# Wave
+WAVE=$'\xF0\x9F\x8C\x8A'
+
+# Eggplant
+EGGPLANT=$'\xF0\x9F\x8D\x86'
+
+# Tomato
+TOMATO=$'\xF0\x9F\x8D\x85'
+
+PROMPT_COMMAND='__git_ps1 "\W" "$HAMSTER "\ '
